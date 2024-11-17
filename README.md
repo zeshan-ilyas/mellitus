@@ -11,3 +11,10 @@ Project Structure
     •README.md
 
 
+Solution Owners
+
+Data Preprocessing: Zeshan / Stephanie
+SQL / Queries: Abi / Samihah
+Visualisation: Samia / Samihah / Stephanie
+
+
