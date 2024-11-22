@@ -1,0 +1,16 @@
+,Correlation
+weight_scaled,0.24844330571904275
+family_diabetes_history_encoded_scaled,0.12107332251609411
+physical_activity_level_encoded_scaled,0.10631141470321549
+BMI_scaled,0.09718558164366978
+pregnancies_scaled,0.0028037358859872457
+diet_type_encoded_scaled,0.0027583642670756113
+sleep_duration_scaled,0.0020074328789832746
+star_sign_encoded_scaled,0.00017025155660517954
+age_scaled,-0.0009752637257300453
+gender_encoded_scaled,-0.0016539292074369577
+hypertension_encoded_scaled,-0.0052777548994424545
+diabetes_pedigree_function_scaled,-0.005957362840902673
+social_media_usage_encoded_scaled,-0.07061213486659895
+alcohol_consumption_encoded_scaled,-0.12804593265671732
+stress_level_encoded_scaled,-0.1556776886385583
